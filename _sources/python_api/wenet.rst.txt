@@ -13,8 +13,10 @@ Subpackages
    :maxdepth: 2
 
    wenet.branchformer
+   wenet.cli
    wenet.dataset
    wenet.efficient_conformer
+   wenet.k2
    wenet.squeezeformer
    wenet.transducer
    wenet.transformer
